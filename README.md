@@ -1,2 +1,3 @@
-# Github.projectv2
-Project on LCT
+Hello world!
+Im willing to learned for web developer programming
+im a self-paced learnings
